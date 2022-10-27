@@ -1,0 +1,13 @@
+#flex-grid {
+    display: flex;
+}
+
+.cell {
+    background-color: lightgray;
+    width: 8px;
+    height: 8px;
+}
+
+.black {
+    background-color: black;
+}
